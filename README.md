@@ -13,6 +13,6 @@ export SUBSCRIPTION_NAME='<topic_subscription_name>'
 ### Then run:
 ```
 pip install -r requirements.txt
-twitter_streaming.py
+python3 twitter_streaming.py
 python3 topic_subscriber.py
 ```
